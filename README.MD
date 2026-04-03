@@ -22,13 +22,13 @@ I'm **[`Tätsú_`]()**, a hacker & Security Researcher and aspiring Cybersecurit
 <details>
   <summary>More about me</summary>
 
-- **Name**: Coffin
-- **From**: Moscow (Russia)
+- **Name**: Victor Chiquito
+- **From**: (Gye Ecuador)
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **coffinxp7@proton.me**
+
 
 </details>
 <br>
